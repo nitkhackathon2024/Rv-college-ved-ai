@@ -1,3 +1,6 @@
+video demo:
+https://drive.google.com/drive/folders/14ofC1XaanDsj6u5zHgaz-NQS010pRUvZ?usp=sharing
+
 VED- Versatile enhanced distiller AI 
 An Unified Knowledge Distiller and Peer Learning Platform
 
@@ -20,12 +23,8 @@ Using SearxNG to stay current, ved ensures you always get the most up-to-date in
 
 ![image](https://github.com/user-attachments/assets/483b4500-0b26-4996-afcb-2f5329c0c7c5)
 
+<img width="1204" alt="image" src="https://github.com/user-attachments/assets/380521f3-17fe-4094-bc6d-69a0bb5861ce">
 
- video demo:
-
-https://drive.google.com/drive/folders/14ofC1XaanDsj6u5zHgaz-NQS010pRUvZ?usp=sharing
-
-## 🌟 [Try the Demo](https://learn-ai-studio.vercel.app/)
 
 ## 🔍 How It Works
 
@@ -49,7 +48,8 @@ https://drive.google.com/drive/folders/14ofC1XaanDsj6u5zHgaz-NQS010pRUvZ?usp=sha
 | Authentication | Nuth Auth |
 | Storage | Pinecone (vector storage), PostgreSQL |
 | Course Generation | Gemini API (LLM) |
-
+| realtime web data | Searxng |
+| knowledge graph | Langraph and langchain |
 
 ## 🚀 Getting Started
 
