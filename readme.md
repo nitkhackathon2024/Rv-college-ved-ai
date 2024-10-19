@@ -7,6 +7,12 @@ an app that enables students to efficiently organize their study materials and c
 
  ![image](https://github.com/user-attachments/assets/2f111c2d-f95e-46c4-ab77-c83bb1b62724)
 
+
+ ![image](https://github.com/user-attachments/assets/6624c66b-b8db-4a97-8028-83cc543ba09f)
+
+![image](https://github.com/user-attachments/assets/483b4500-0b26-4996-afcb-2f5329c0c7c5)
+
+
  video demo:
 
 https://drive.google.com/drive/folders/14ofC1XaanDsj6u5zHgaz-NQS010pRUvZ?usp=sharing
