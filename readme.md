@@ -5,6 +5,14 @@ an app that enables students to efficiently organize their study materials and c
 
  Problem Statement: Knowledge Distiller App 3.1 and  Intelligent Peer Learning Platform 3.2
 
+## Overview
+Ved-AI is a personalized assistant and second brain that aims to revolutionize the way students learn and understand concepts. The platform is designed to provide reliable information, understand individual learning styles, and offer personalized learning experiences.
+
+ved i summed up as AI-powered learning companion with an AI-powered search engine that goes deep into the internet to find answers.Inspired by AI, it's an powerful option that not just searches the web but understands your questions. It uses advanced machine learning algorithms like similarity searching and embeddings to refine results and provides clear answers with sources cited.
+
+Using SearxNG to stay current, ved ensures you always get the most up-to-date information without compromising your privacy.
+
+
  ![image](https://github.com/user-attachments/assets/2f111c2d-f95e-46c4-ab77-c83bb1b62724)
 
 
